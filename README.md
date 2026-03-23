@@ -1,2 +1,3 @@
 # Mi primer proyecto 
-## Esto es un subtitulo
+
+Esto es nuna breve descripcion de mi primer proyecto
